@@ -7,12 +7,12 @@ The dataset used for training and evaluation is located in the https://www.kaggl
 and fashion items. The dataset is split into training and testing sets, with 80% of the images used for training and 20% for testing.
 # Data Preparation
 1. Define the path to the dataset directory: The path to the dataset directory is specified as /kaggle/input/slash-dataset/slash_dataset.
-2.List the folders in the dataset directory: The categories in the dataset are listed as Accessories, Beauty, and Fashion.
-3.Create lists for file paths and labels: File paths and corresponding labels are extracted from the dataset directory.
-4.Split the dataset: The dataset is split into training and testing sets using a 80-20 split.
-5.Print the number of samples in each category: The number of samples in each category for both the training and testing sets are printed.
-6.Print the distribution of labels: The distribution of labels (categories) in both the training and testing sets is printed.
-7.Load train and test images: Images are loaded as arrays and stored in separate lists for training and testing.
+2. List the folders in the dataset directory: The categories in the dataset are listed as Accessories, Beauty, and Fashion.
+3. Create lists for file paths and labels: File paths and corresponding labels are extracted from the dataset directory.
+4. Split the dataset: The dataset is split into training and testing sets using a 80-20 split.
+5. Print the number of samples in each category: The number of samples in each category for both the training and testing sets are printed.
+6. Print the distribution of labels: The distribution of labels (categories) in both the training and testing sets is printed.
+7. Load train and test images: Images are loaded as arrays and stored in separate lists for training and testing.
 
 # Model Building
 Base Model: The VGG16 model pretrained on ImageNet is used as the base model.
@@ -32,4 +32,5 @@ This is aimed at improving the model's performance on the this task.
 
 # Additional Functionalities
 1. Confusion Matrix: A confusion matrix is generated to visualize the performance of the model in terms of correct and incorrect classifications.
-2.Loss and Accuracy Visualization: Loss and accuracy curves are plotted for both the training and testing sets to visualize the training process and identify any overfitting or underfitting
+2. Loss and Accuracy Visualization: Loss and accuracy curves are plotted for both the training and testing sets to visualize the training process and identify any overfitting or underfitting 
+  
