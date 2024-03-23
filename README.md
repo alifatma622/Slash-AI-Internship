@@ -1,3 +1,7 @@
+
+
+https://github.com/alifatma622/Slash-AI-Internship/assets/101599059/5f0486ba-0f89-4859-890a-b34638c8b8ed
+
 # Model Name (Product Image Classification with VGG16)
 # Overview
 This repository contains code for a deep learning model designed for image classification. The model is built using the VGG16 architecture as a base, with additional layers for classification on top. It is trained on a dataset containing images from three categories:
