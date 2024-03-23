@@ -1,4 +1,4 @@
-Model Name (Product Image Classification with VGG16)
+# Model Name (Product Image Classification with VGG16)
 # Overview
 This repository contains code for a deep learning model designed for image classification. The model is built using the VGG16 architecture as a base, with additional layers for classification on top. It is trained on a dataset containing images from three categories:
 Accessories, Beauty, and Fashion. The primary goal of the model is to accurately classify images into these categories.
